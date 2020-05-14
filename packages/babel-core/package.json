@@ -1,6 +1,6 @@
 {
   "name": "@volkovasystem/babel-core",
-  "version": "7.9.6-0",
+  "version": "7.9.7",
   "description": "Babel compiler core.",
   "main": "lib/index.js",
   "author": "Sebastian McKenzie <sebmck@gmail.com>",
