@@ -1,5 +1,5 @@
 {
-  "name": "@volkovasystem/babel/core",
+  "name": "@volkovasystem/babel-core",
   "version": "7.9.6",
   "description": "Babel compiler core.",
   "main": "lib/index.js",
